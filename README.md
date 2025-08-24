@@ -6,3 +6,4 @@
 > Counting Sort
 > Heap Sort
 > Merge Sort
+> InsertionSort.cpp

@@ -5,3 +5,4 @@
 > Radix Sort
 > Counting Sort
 > Heap Sort
+> Merge Sort
